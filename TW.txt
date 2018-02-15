@@ -1,0 +1,3 @@
+http://free.nchc.org.tw/raspbian/raspbian/
+http://ftp.yzu.edu.tw/Linux/raspbian/raspbian/
+http://mirror.ossplanet.net/raspbian/raspbian/
