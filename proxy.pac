@@ -9,7 +9,7 @@
 // - SSH to the server with `ssh -D 1280 ....`.
 function FindProxyForURL(url, host) {
   // Setup a SOCKS proxy on port 1280.
-  proxy = "HTTPS jp9.nordvpn.com:80"
+  proxy = "PROXY jp9.nordvpn.com:80"
 
   // Log to `chrome://net-internals/#events` for debugging.
   alert("url: " + url + ", host: " + host)
